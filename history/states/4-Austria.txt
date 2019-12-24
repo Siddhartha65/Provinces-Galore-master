@@ -1,0 +1,47 @@
+
+state={
+	id=4
+	name="STATE_4"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = AUS
+		victory_points = {
+			11666 30.0 
+		}
+		victory_points = {
+			9648 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 5
+			air_base = 6
+
+		}
+		add_core_of = AUS
+		1938.3.12 = {
+			owner = GER
+			controller = GER
+			add_core_of = GER
+
+		}
+		1939.1.1 = {
+			buildings = {
+				anti_air_building = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		653 704 3700 3718 6690 6739 9527 9646 9648 9661 9679 11630 11666 14304 14305 14341 14350 14360 14367 14405 14413 14427 14447 14448 14502 14510 14520 14549 14561 14579 14593 14660 14673 14744 14767 
+	}
+	manpower=2595983
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

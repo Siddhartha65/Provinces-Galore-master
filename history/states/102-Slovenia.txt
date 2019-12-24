@@ -1,0 +1,26 @@
+
+state={
+	id=102
+	name="STATE_102"
+
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 6
+
+		}
+		victory_points = {
+			9627 3 
+		}
+		add_core_of = YUG
+		add_core_of = SLV
+
+	}
+
+	provinces={
+		596 665 3631 3654 6650 6672 9596 9627 14083 14147 14148 14149 14167 14205 14206 14215 14225 14233 14245 14259 14260 14297 
+	}
+	manpower=1144300
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

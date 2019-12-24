@@ -1,0 +1,41 @@
+
+state={
+	id=186
+	name="STATE_186"
+
+	history={
+		victory_points = {
+			7211 5 
+		}
+		victory_points = {
+			7096 1 
+		}
+		victory_points = {
+			11965 1 
+		}
+		owner = GRE
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 1
+			11965 = {
+				naval_base = 1
+
+			}
+			7211 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = GRE
+
+	}
+
+	provinces={
+		1173 4078 4178 4193 7096 7211 11965 13335 13336 13337 13342 13343 13345 13346 13350 13352 13355 13356 13359 13360 13366 13367 13372 13375 13378 13384 13385 13390 13391 
+	}
+	manpower=945000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

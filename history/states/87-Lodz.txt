@@ -1,0 +1,33 @@
+
+state={
+	id=87
+	name="STATE_87"
+
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			9508 10 
+		}
+		add_core_of = POL
+		1939.1.1 = {
+			buildings = {
+				air_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		493 584 9439 9508 9546 11428 11515 15243 15260 15261 15294 15295 15321 15328 15363 15364 15375 15376 15408 15409 15424 15431 15439 15476 15485 15514 
+	}
+	manpower=2632000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

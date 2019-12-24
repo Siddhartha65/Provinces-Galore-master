@@ -1,0 +1,26 @@
+
+state={
+	id=299
+	name="STATE_299"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			12960 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_claim_by = ARG
+
+	}
+
+	provinces={
+		12960 13218 13219 13220 13221 13222 13223 13224 13225 13226 13227 13228 
+	}
+	manpower=2463
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

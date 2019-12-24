@@ -1,0 +1,33 @@
+
+state={
+	id=23
+	name="STATE_23"
+	resources={
+		steel=30.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			6657 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			6657 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		595 629 655 3659 6657 9597 9631 11582 11596 11600 14020 14053 14078 14091 14120 14127 14142 14165 14174 14190 14201 14210 14230 14231 14256 14257 14274 14275 14293 14309 14310 14314 14320 14321 14325 
+	}
+	manpower=1603100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

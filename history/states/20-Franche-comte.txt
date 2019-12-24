@@ -1,0 +1,40 @@
+
+state={
+	id=20
+	name="STATE_20"
+	resources={
+		steel=60.000
+		aluminium=35.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			6613 10 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+
+		}
+		add_core_of = FRA
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		641 3650 3770 6613 6639 6668 6786 9590 9728 9732 11593 11716 11794 13850 13909 13934 13935 13983 14011 14036 14068 14110 14129 14130 14157 14182 14192 14193 14212 14223 14243 14258 14303 
+	}
+	manpower=2973200
+	buildings_max_level_factor=1.000
+	state_category=city
+}

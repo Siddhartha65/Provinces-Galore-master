@@ -1,0 +1,42 @@
+
+state={
+	id=50
+	name="STATE_50"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9517 20 
+		}
+		victory_points = {
+			11499 3 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 5
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = GER
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 11
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		519 694 3530 3679 3690 3692 6542 6555 6568 6581 6712 6934 9517 9545 9655 11486 11499 11640 13126 14471 14472 14508 14518 14536 14576 14615 14627 14644 14645 14708 14720 14731 14738 14739 14757 14791 14806 14807 14853 14866 14919 
+	}
+	manpower=5086854
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

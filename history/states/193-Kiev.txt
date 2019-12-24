@@ -1,0 +1,27 @@
+
+state={
+	id=193
+	name="STATE_193"
+
+	history={
+		victory_points = {
+			3568 3 
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 5
+			air_base = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+
+	}
+
+	provinces={
+		238 546 3480 3542 3568 3584 6458 6508 6532 6589 9437 9506 11425 11489 15106 15130 15153 15179 15180 15191 15210 15211 15230 15249 15268 15269 15287 15298 15306 15323 15324 15332 15368 15369 15378 15404 
+	}
+	manpower=1373637
+	buildings_max_level_factor=1.000
+	state_category=city
+}

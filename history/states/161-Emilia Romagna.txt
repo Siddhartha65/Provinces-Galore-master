@@ -1,0 +1,34 @@
+
+state={
+	id=161
+	name="STATE_161"
+	resources={
+		aluminium=9.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			6606 3 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			air_base = 2
+			782 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = ITA
+
+	}
+
+	provinces={
+		782 3773 3976 6606 6790 6793 6985 9752 9924 13786 13794 13823 13824 13825 13833 13840 13841 13861 13862 13872 13873 13874 13875 13893 13894 13895 13901 13902 13911 13912 13937 13938 13946 13955 13956 
+	}
+	manpower=3202401
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}
